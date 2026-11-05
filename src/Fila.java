@@ -72,7 +72,6 @@ public class Fila{
 
             if (pessoas[i].getAguardando()){
                 texto += "\n" + pessoas[i].toString();
-                texto += "\n----------------------";
             }
         }
 
